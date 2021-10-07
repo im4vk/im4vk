@@ -2,11 +2,15 @@
 <img src="https://github.com/avinal/avinal/blob/main/images/butterfly.gif" width=20%> <img src="https://github.com/avinal/avinal/blob/main/images/dog.gif" width=10% />  
 </p>
 
-```bash
+ ```bash
                                                       $ > Hello World!
  ```
+ ```sql
+                                      Select * from World where = "Someone" like "%You%"
+ ```
  
-<img align="left" src="https://i.pinimg.com/originals/79/04/42/7904424933cc535b666f2de669973530.gif" width="35%" height="300px">I am a code blooded animal <br> There is no place like <b><i>127.0.0.1</i></b><br> Select <i>*</i> from World Where = "<i>Someone</i>" Like "%<i>You</i>%"
+<img align="left" src="https://i.pinimg.com/originals/79/04/42/7904424933cc535b666f2de669973530.gif" width="35%" height="300px">I am a code blooded animal <br> There is no place like <b><i>127.0.0.1</i></b><br> 
+<!-- Select <i>*</i> from World Where = "<i>Someone</i>" Like "%<i>You</i>%" -->
  
 <!--  <img width="35%" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" /> -->
 ```javascript
@@ -17,7 +21,9 @@ const avi = {
     likes: ["programming", "football"]
 };
 ```
- ### <a href="https://linkedin.com/in/4vk"><img src = "https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px" hspace="10px" /></a> <a href="https://www.hackthebox.eu/profile/470218"><img src="https://yt3.ggpht.com/ytc/AKedOLRNscQU9ZqS-WvVLX1y47YiTCzTa6WqSJRt6GDVoQ=s900-c-k-c0x00ffffff-no-rj" width="33px" hspace="10px"/></a> <a href="https://tryhackme.com/p/4vkn3w"><img src="https://assets.tryhackme.com/img/THMlogo.png" width="55px" /></a>
+
+ #### Connect Here: 
+ <a href="https://linkedin.com/in/4vk" target=blank><img src = "https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px" hspace="10px" /></a> <a href="https://www.hackthebox.eu/profile/470218"><img src="https://yt3.ggpht.com/ytc/AKedOLRNscQU9ZqS-WvVLX1y47YiTCzTa6WqSJRt6GDVoQ=s900-c-k-c0x00ffffff-no-rj" width="33px" hspace="10px"/></a> <a href="https://tryhackme.com/p/4vkn3w"><img src="https://assets.tryhackme.com/img/THMlogo.png" width="55px" /></a>
 <br>
 
 ---
