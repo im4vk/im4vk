@@ -1,6 +1,6 @@
 <img src="https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg" width=100% height="2px" />
-<img src="https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg" width="2px" height="1200px" align="left"/>
-<img src="https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg" width="2px" height="1200px" align="right"/>
+<img src="https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg" width="2px" height="1400px" align="left"/>
+<img src="https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg" width="2px" height="1400px" align="right"/>
 
 <p align="center"> <img src="/coollogo_com-207551010.gif" width="20%"/> <img src="https://github.com/avinal/avinal/blob/main/images/dog.gif" width=10% /></p>
 
