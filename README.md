@@ -65,8 +65,8 @@ const me = {
 
 <p align="center">
 <a href="https://github.com/Avinash997">
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Avinash997&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Avinash997&layout=compact&langs_count=10&theme=algolia"/>
+  <img width="500em" height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Avinash997&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img width="400em" height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Avinash997&layout=compact&langs_count=10&theme=algolia"/>
 </a>
 </p>
 
