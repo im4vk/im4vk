@@ -1,18 +1,11 @@
-<!-- <img src="https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg" width=100% height="2px" />
-<img src="https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg" width="2px" height="100%" />
- -->
+<img src="https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg" width=100% height="2px" />
+<img src="https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg" width="2px" height="1200px" align="left"/>
+<img src="https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg" width="2px" height="1200px" align="right"/>
 
+<p align="center"> <img src="/coollogo_com-207551010.gif" width="20%"/> <img src="https://github.com/avinal/avinal/blob/main/images/dog.gif" width=10% /></p>
 
+                                    Select * from World where = "Someone" like "%You%"
 
-
-
-<p align="center"> <img src="https://media1.giphy.com/media/4H3Ii5eLChYul9p7NL/200w.webp?cid=ecf05e47ppwni1e0l6p6abp4i5rao8zyaf0rcb37g6g0va6s&rid=200w.webp&ct=g" width=100% height="50px"/> <img src="/coollogo_com-207551010.gif" width="20%"/> <img src="https://github.com/avinal/avinal/blob/main/images/dog.gif" width=10% /></p>
-
- ```sql
-                                      Select * from World where = "Someone" like "%You%"
- ```
- 
-<!--  ### 📖 About Me -->
 <img align="left" src="https://media1.giphy.com/media/xTcnSWYZvafyhEACBO/200w.webp?cid=ecf05e47ppwni1e0l6p6abp4i5rao8zyaf0rcb37g6g0va6s&rid=200w.webp&ct=g" width="35%" height="390px">I am <b><i>Avinash D. Avi</i></b> 👒<br>Code Blooded Human <img src="https://www.pngkit.com/png/full/49-496473_image-library-download-hackers-face-mask-graphics-on.png" width=1% hspace="4px" /><br> There is no place like <b><i>127.0.0.1</i></b><br>
 
 ```javascript
@@ -76,3 +69,5 @@ const me = {
   <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Avinash997&layout=compact&langs_count=10&theme=algolia"/>
 </a>
 </p>
+
+<img src="https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg" width="100%" height="2px"/>
