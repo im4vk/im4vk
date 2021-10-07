@@ -4,7 +4,8 @@
 
 <p align="center">I am <b><i>Avinash D. Avi</i></b> 👒<br>Code Blooded Human <img src="https://www.pngkit.com/png/full/49-496473_image-library-download-hackers-face-mask-graphics-on.png" width=1% hspace="4px" /><br> There is no place like <b><i>127.0.0.1</i></b><br></p>
 
-<img align="left" src="https://c.tenor.com/GXV82xs5pFgAAAAd/jujutsu-kaisen-satoru-gojo.gif" width="25%" height="210px">
+<img align="left" src="https://static.wikia.nocookie.net/db71b7a1-aa19-401b-b516-82574e6716d7" width="20%" height="210px"> <img align="right" src="https://static.wikia.nocookie.net/db71b7a1-aa19-401b-b516-82574e6716d7" width="20%" height="210px">
+
 
 ```javascript
 const me = {
