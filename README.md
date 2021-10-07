@@ -1,12 +1,12 @@
 <img src="https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg" width=100% height="2px" />
-<img src="https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg" width="2px" height="1380px" align="left"/>
-<img src="https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg" width="2px" height="1380px" align="right"/>
+<img src="https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg" width="2px" height="1370px" align="left"/>
+<img src="https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg" width="2px" height="1370px" align="right"/>
 
 <p align="center"> <img src="/coollogo_com-207551010.gif" width="20%"/> <img src="https://github.com/avinal/avinal/blob/main/images/dog.gif" width=10% /></p>
 
                                     Select * from World where = "Someone" like "%You%"
 
-<img align="left" src="https://media1.giphy.com/media/xTcnSWYZvafyhEACBO/200w.webp?cid=ecf05e47ppwni1e0l6p6abp4i5rao8zyaf0rcb37g6g0va6s&rid=200w.webp&ct=g" width="35%" height="390px">I am <b><i>Avinash D. Avi</i></b> 👒<br>Code Blooded Human <img src="https://www.pngkit.com/png/full/49-496473_image-library-download-hackers-face-mask-graphics-on.png" width=1% hspace="4px" /><br> There is no place like <b><i>127.0.0.1</i></b><br>
+<img align="left" src="https://media1.giphy.com/media/xTcnSWYZvafyhEACBO/200w.webp?cid=ecf05e47ppwni1e0l6p6abp4i5rao8zyaf0rcb37g6g0va6s&rid=200w.webp&ct=g" width="35%" height="390px"><p align="right">I am <b><i>Avinash D. Avi</i></b> 👒<br>Code Blooded Human <img src="https://www.pngkit.com/png/full/49-496473_image-library-download-hackers-face-mask-graphics-on.png" width=1% hspace="4px" /><br> There is no place like <b><i>127.0.0.1</i></b><br></p>
 
 ```javascript
 const me = {
@@ -21,12 +21,11 @@ const me = {
 };
 ```
 
- #### Connect / Follow Here:
- 
- <p align="left">
- <a href="https://linkedin.com/in/4vk" target="blank"><img src = "https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px" /></a> <a href="https://www.hackthebox.eu/profile/470218" ><img src="https://yt3.ggpht.com/ytc/AKedOLRNscQU9ZqS-WvVLX1y47YiTCzTa6WqSJRt6GDVoQ=s900-c-k-c0x00ffffff-no-rj" width="33px" hspace="13px"/></a> <a href="https://tryhackme.com/p/4vkn3w" ><img src="https://assets.tryhackme.com/img/THMlogo.png" width="55px" /></a>
- <a href="https://github.com/Avinash997?tab=repositories"><img alt="All Repositories" width="67px" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-000000?style=for-the-badge&logoColor=white&logo=repo" /></a>
-</p>
+<div align="right">
+<h4>Connect / Follow Here:</h4>
+ <a href="https://www.hackthebox.eu/profile/470218" ><img src="https://yt3.ggpht.com/ytc/AKedOLRNscQU9ZqS-WvVLX1y47YiTCzTa6WqSJRt6GDVoQ=s900-c-k-c0x00ffffff-no-rj" width="33px" hspace="13px"/></a> <a href="https://tryhackme.com/p/4vkn3w" ><img src="https://assets.tryhackme.com/img/THMlogo.png" width="55px" /></a>
+ <a href="https://github.com/Avinash997?tab=repositories"><img alt="All Repositories" width="67px" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-000000?style=for-the-badge&logoColor=white&logo=repo" /></a><a href="https://linkedin.com/in/4vk" target="blank"><img src = "https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px" /></a> 
+</div>
 
 ---
 
