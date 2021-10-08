@@ -5,7 +5,7 @@
 
 <p align="center">I am <b><i>Avinash D. Avi</i></b> 👒<br>Code Blooded Anime <img src="https://www.pngkit.com/png/full/49-496473_image-library-download-hackers-face-mask-graphics-on.png" width=1% hspace="4px" /><br> There is no place like <b><i>127.0.0.1</i></b></p>
 
-<img align="left" src="https://media2.giphy.com/media/WeyqDp1shHe7u/giphy.gif" width="20%" height="235px"> <img src="https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg" width="56%" height="2px" align="left"> <img align="right" src="https://static.wikia.nocookie.net/db71b7a1-aa19-401b-b516-82574e6716d7" width="20%" height="230px">  
+<img align="left" src="https://steamuserimages-a.akamaihd.net/ugc/1758063017992709035/10E1E915FEC8D22D4EAB1D83A60D0580AEA6C3A3/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="20%" height="235px"> <img src="https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg" width="56%" height="2px" align="left"> <img align="right" src="https://c.tenor.com/I0P0YpdSxVEAAAAC/luffy-monkey-d-luffy.gif" width="20%" height="230px">  
 
 ```javascript
 const me = {
@@ -48,8 +48,6 @@ const me = {
 ![SQL](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql&logoColor=light-blue)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB&logoColor=green)
  
----
-
  <!---
 
 ### 🏆 GitHub Profile Trophy
