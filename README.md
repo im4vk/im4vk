@@ -20,7 +20,9 @@ const me = {
     };
 ```
 
-<br><img src="https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg" width="100%" height="2px" align="left"/>
+<!-- <br><img src="https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg" width="100%" height="2px" align="left"/> -->
+
+---
 
 <div align="center">
 <h4>Connect / Follow Here:</h4>
@@ -49,11 +51,12 @@ const me = {
 ![SQL](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql&logoColor=light-blue)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB&logoColor=green)
  
- <img src="https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg" width="100%" height="2px" align="left"/>
+<!--  <img src="https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg" width="100%" height="2px" align="left"/> -->
  
- <!---
  
 ---
+
+ <!---
 
 ### 🏆 GitHub Profile Trophy
 <a href="https://github.com/ryo-ma/github-profile-trophy">
