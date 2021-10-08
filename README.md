@@ -1,7 +1,7 @@
 <p align="center"><img src="/coollogo_com-207551010.gif" width="20%" align="center"> <img src="https://github.com/avinal/avinal/blob/main/images/dog.gif" width=10% align="center"></p>
 
                                         Select * from World where = "Someone" like "%You%"
-                                                 $ > Use Dark Theme for better Exp
+                                                        $ > Use Dark Theme
 
 <p align="center">I am <b><i>Avinash D. Avi</i></b> 👒<br>Code Blooded Anime <img src="https://www.pngkit.com/png/full/49-496473_image-library-download-hackers-face-mask-graphics-on.png" width=1% hspace="4px" /><br> There is no place like <b><i>127.0.0.1</i></b></p>
 
@@ -27,7 +27,7 @@ const me = {
   <a href="https://linkedin.com/in/4vk" target="blank"><img src = "https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px" /></a>  <a href="https://www.hackthebox.eu/profile/470218" ><img src="https://yt3.ggpht.com/ytc/AKedOLRNscQU9ZqS-WvVLX1y47YiTCzTa6WqSJRt6GDVoQ=s900-c-k-c0x00ffffff-no-rj" width="33px" hspace="13px"/></a> <a href="https://tryhackme.com/p/4vkn3w" ><img src="https://assets.tryhackme.com/img/THMlogo.png" width="55px" /></a>
 </div>
 
----
+
 
 ### 🛠 Tech Stack
 
@@ -48,13 +48,15 @@ const me = {
 ![SQL](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql&logoColor=light-blue)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB&logoColor=green)
  
+ <!---
+ 
 ---
 
 ### 🏆 GitHub Profile Trophy
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=Avinash997&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
 </a>
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Avinash997&theme=github) -->
+ <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Avinash997&theme=github) 
 
 ---
 
@@ -66,6 +68,5 @@ const me = {
   <img width="400em" height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Avinash997&layout=compact&langs_count=10&theme=algolia"/>
 </a>
 </p>
-<!-- 
-<img src="https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg" width="100%" height="2px"/>
- -->
+
+<---
