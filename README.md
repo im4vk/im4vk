@@ -2,10 +2,9 @@
 
                                         Select * from World where = "Someone" like "%You%"
 
-<p align="center">I am <b><i>Avinash D. Avi</i></b> 👒<br>Code Blooded Human <img src="https://www.pngkit.com/png/full/49-496473_image-library-download-hackers-face-mask-graphics-on.png" width=1% hspace="4px" /><br> There is no place like <b><i>127.0.0.1</i></b><br></p>
+<p align="center">I am <b><i>Avinash D. Avi</i></b> 👒<br>Code Blooded Anime <img src="https://www.pngkit.com/png/full/49-496473_image-library-download-hackers-face-mask-graphics-on.png" width=1% hspace="4px" /><br> There is no place like <b><i>127.0.0.1</i></b></p>
 
-<img align="left" src="https://static.wikia.nocookie.net/db71b7a1-aa19-401b-b516-82574e6716d7" width="20%" height="210px"> <img align="right" src="https://static.wikia.nocookie.net/db71b7a1-aa19-401b-b516-82574e6716d7" width="20%" height="210px">
-
+<img align="left" src="https://media2.giphy.com/media/WeyqDp1shHe7u/giphy.gif" width="20%" height="240px"> <img src="https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg" width="56%" height="2px" align="left"/> <img align="right" src="https://static.wikia.nocookie.net/db71b7a1-aa19-401b-b516-82574e6716d7" width="20%" height="230px">  
 
 ```javascript
 const me = {
@@ -14,11 +13,12 @@ const me = {
                  "SDE @ PayPal", ...],
     likes: ["programming", "football"],
     funFact: [There are 10 types of people
-              Those who understand binary
+              Those who understand binary &
               Those who don't :)
               ]
-};
+    };
 ```
+<img src="https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg" width="56%" height="2px" align="left"/><br>
 
 <div align="center">
 <h4>Connect / Follow Here:</h4>
