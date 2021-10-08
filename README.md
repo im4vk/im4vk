@@ -27,7 +27,8 @@ const me = {
   <a href="https://linkedin.com/in/4vk" target="blank"><img src = "https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px" /></a>  <a href="https://www.hackthebox.eu/profile/470218" ><img src="https://yt3.ggpht.com/ytc/AKedOLRNscQU9ZqS-WvVLX1y47YiTCzTa6WqSJRt6GDVoQ=s900-c-k-c0x00ffffff-no-rj" width="33px" hspace="13px"/></a> <a href="https://tryhackme.com/p/4vkn3w" ><img src="https://assets.tryhackme.com/img/THMlogo.png" width="55px" /></a>
 </div>
 
-
+---
+<!-- <img src="https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg" width="100%" height="2px" align="left"/> -->
 
 ### 🛠 Tech Stack
 
@@ -47,6 +48,8 @@ const me = {
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring&logoColor=green)&nbsp;
 ![SQL](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql&logoColor=light-blue)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB&logoColor=green)
+ 
+ <img src="https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg" width="100%" height="2px" align="left"/>
  
  <!---
  
