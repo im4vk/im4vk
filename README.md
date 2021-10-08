@@ -20,9 +20,7 @@ const me = {
     };
 ```
 
-<!-- <br><img src="https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg" width="100%" height="2px" align="left"/> -->
-
----
+<br><img src="https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg" width="100%" height="2px" align="left"/>
 
 <div align="center">
 <h4>Connect / Follow Here:</h4>
@@ -30,7 +28,6 @@ const me = {
 </div>
 
 ---
-<!-- <img src="https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg" width="100%" height="2px" align="left"/> -->
 
 ### 🛠 Tech Stack
 
@@ -50,9 +47,6 @@ const me = {
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring&logoColor=green)&nbsp;
 ![SQL](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql&logoColor=light-blue)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB&logoColor=green)
- 
-<!--  <img src="https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg" width="100%" height="2px" align="left"/> -->
- 
  
 ---
 
