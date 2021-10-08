@@ -1,6 +1,7 @@
 <p align="center"><img src="/coollogo_com-207551010.gif" width="20%" align="center"> <img src="https://github.com/avinal/avinal/blob/main/images/dog.gif" width=10% align="center"></p>
 
                                         Select * from World where = "Someone" like "%You%"
+                                                 $ > Use Dark Theme for better Exp
 
 <p align="center">I am <b><i>Avinash D. Avi</i></b> 👒<br>Code Blooded Anime <img src="https://www.pngkit.com/png/full/49-496473_image-library-download-hackers-face-mask-graphics-on.png" width=1% hspace="4px" /><br> There is no place like <b><i>127.0.0.1</i></b></p>
 
