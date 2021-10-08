@@ -13,13 +13,14 @@ const me = {
                  "SDE @ PayPal", ...],
     likes: ["programming", "football"],
     funFact: [There are 10 types of people
-              Those who understand binary &
-              Those who don't :)
+              Those who understand binary & Those who don't :)
               ]
+              
     };
 ```
-<!-- <img src="https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg" width="56%" height="2px" align="left"/> -->
+
 <img src="https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg" width="100%" height="2px" align="left"/>
+
 <div align="center">
 <h4>Connect / Follow Here:</h4>
   <a href="https://linkedin.com/in/4vk" target="blank"><img src = "https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px" /></a>  <a href="https://www.hackthebox.eu/profile/470218" ><img src="https://yt3.ggpht.com/ytc/AKedOLRNscQU9ZqS-WvVLX1y47YiTCzTa6WqSJRt6GDVoQ=s900-c-k-c0x00ffffff-no-rj" width="33px" hspace="13px"/></a> <a href="https://tryhackme.com/p/4vkn3w" ><img src="https://assets.tryhackme.com/img/THMlogo.png" width="55px" /></a>
