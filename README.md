@@ -20,7 +20,7 @@ const me = {
     };
 ```
 
-<img src="https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg" width="100%" height="2px" align="left"/><br>
+<br><img src="https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg" width="100%" height="2px" align="left"/>
 
 <div align="center">
 <h4>Connect / Follow Here:</h4>
