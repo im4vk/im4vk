@@ -24,7 +24,7 @@ const me = {
 
 <div align="center">
 <h4>Connect / Follow Here:</h4>
-  <a href="https://linkedin.com/in/4vk" target="blank"><img src = "https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px" /></a>  <a href="https://www.hackthebox.eu/profile/470218" ><img src="https://yt3.ggpht.com/ytc/AKedOLRNscQU9ZqS-WvVLX1y47YiTCzTa6WqSJRt6GDVoQ=s900-c-k-c0x00ffffff-no-rj" width="33px" hspace="13px"/></a> <a href="https://tryhackme.com/p/4vkn3w" ><img src="https://assets.tryhackme.com/img/THMlogo.png" width="55px" /></a>
+  <a href="https://linkedin.com/in/4vk" target="blank"><img src = "https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px" /></a> <a href="https://www.hackthebox.eu/profile/470218" ><img src="https://yt3.ggpht.com/ytc/AKedOLRNscQU9ZqS-WvVLX1y47YiTCzTa6WqSJRt6GDVoQ=s900-c-k-c0x00ffffff-no-rj" width="33px" hspace="13px"/></a> <a href="https://codeforces.com/profile/4vk" ><img src="https://codeforces.com/predownloaded/8f/84/8f8421ffdeba9ebaaddb1b29baf352c2362d6163.png" width="90px" /></a>
 </div>
 
 ---
