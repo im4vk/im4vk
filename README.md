@@ -12,7 +12,7 @@ const me = {
     pronouns: ["he", "him"],
     routes: ["Analyst @ EXL", 
                  "SDE @ PayPal", ...],
-    likes: ["programming", "football"],
+    likes: ["programming", "football", "anime"],
     funFact: [There are 10 types of people
               Those who understand binary & Those who don't :)
               ]
