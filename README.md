@@ -1,10 +1,11 @@
 <p align="center"><img src="https://monophy.com/media/QTfX9Ejfra3ZmNxh6B/monophy.gif" width="10%" align="center"></p>
 
                                         $ > Select * from World where = "Someone" like "%You%"
-                                         
+                                        
+
 <p align="center">I am <b><i>Avinash D. Avi</i></b> 👒<br>Code Blooded Anime <img src="https://www.pngkit.com/png/full/49-496473_image-library-download-hackers-face-mask-graphics-on.png" width=1% hspace="4px" /><br> There is no place like <b><i>127.0.0.1</i></b></p>
 
-<img align="left" src="https://steamuserimages-a.akamaihd.net/ugc/1758063017992709035/10E1E915FEC8D22D4EAB1D83A60D0580AEA6C3A3/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="20%" height="235px"> <img src="https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg" width="56%" height="2px" align="left"> <img align="right" src="https://c.tenor.com/I0P0YpdSxVEAAAAC/luffy-monkey-d-luffy.gif" width="20%" height="230px">  
+<!-- <img align="left" src="https://steamuserimages-a.akamaihd.net/ugc/1758063017992709035/10E1E915FEC8D22D4EAB1D83A60D0580AEA6C3A3/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="20%" height="235px"> <img src="https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg" width="56%" height="2px" align="left"> <img align="right" src="https://c.tenor.com/I0P0YpdSxVEAAAAC/luffy-monkey-d-luffy.gif" width="20%" height="230px">   -->
 
 ```javascript
 const me = {
@@ -19,7 +20,7 @@ const me = {
     };
 ```
 
-<br><img src="https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg" width="100%" height="2px" align="left"/>
+<!-- <br><img src="https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg" width="100%" height="2px" align="left"/> -->
 
 <div align="center">
 <h4>Connect / Follow Here:</h4>
