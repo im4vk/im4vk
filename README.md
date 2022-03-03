@@ -63,7 +63,7 @@ const me = {
 
 <div align="center">
 <h4>Connect / Follow Here:</h4>
-  <a href="https://linkedin.com/in/4vk" target="blank"><img src = "https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px" /></a> <a href="https://www.hackthebox.eu/profile/470218" ><img src="https://yt3.ggpht.com/ytc/AKedOLRNscQU9ZqS-WvVLX1y47YiTCzTa6WqSJRt6GDVoQ=s900-c-k-c0x00ffffff-no-rj" width="33px" hspace="13px"/></a> <a href="https://codeforces.com/profile/4vk" ><img src="https://www.saashub.com/images/app/service_logos/175/r59iw60rtoxu/large.png" width="39px" /></a>
+  <a href="https://linkedin.com/in/4vk" target="blank"><img src = "https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px" /></a> <a href="https://www.hackthebox.eu/profile/470218" ><img src="https://yt3.ggpht.com/ytc/AKedOLRNscQU9ZqS-WvVLX1y47YiTCzTa6WqSJRt6GDVoQ=s900-c-k-c0x00ffffff-no-rj" width="33px" hspace="13px"/></a> <a href="https://www.codechef.com/users/im4vk" ><img src="https://www.saashub.com/images/app/service_logos/175/r59iw60rtoxu/large.png" width="39px" /></a>
 </div>
 
 ---
