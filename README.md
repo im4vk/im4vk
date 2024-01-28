@@ -11,7 +11,7 @@
 <!-- <p align="center"><img src="https://monophy.com/media/QTfX9Ejfra3ZmNxh6B/monophy.gif" width="10%" align="center"></p> -->
                                         
 
-<p align="center">I am <b><i>Avinash D. Avi</i></b> 👒<br>Code Blooded Anime <img src="https://www.pngkit.com/png/full/49-496473_image-library-download-hackers-face-mask-graphics-on.png" width=1% hspace="4px" /><br> There is no place like <b><i>127.0.0.1</i></b></p>
+<p align="center">I am <b><i>Avinash D. Avi</i></b> 👒<br>Code Blooded Anime <img src="https://thumbs.dreamstime.com/b/hacker-looking-camera-face-mask-dark-theme-wallpaper-hacker-looking-camera-face-mask-dark-theme-wallpaper-291465611.jpg" width=2% hspace="4px" /><br> There is no place like <b><i>127.0.0.1</i></b></p>
 
 <!--<img align="left" src="https://monophy.com/media/QTfX9Ejfra3ZmNxh6B/monophy.gif" width="20%" >
 <img src="https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg" width="56%" height="2px" align="left"> <img align="right" src="https://c.tenor.com/I0P0YpdSxVEAAAAC/luffy-monkey-d-luffy.gif" width="20%"> 
