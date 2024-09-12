@@ -1,3 +1,11 @@
+### Hello there 👋
+
+#### A Backend-Developer by day ☼ and a  Security Enthusiast by night ☾
+
+- 👒 [Avinash]()
+- 🌍 I'm mostly active within the **Security Community**
+
+<!--
 ```javascript  
                                     ________             __ __         __      
                                     \______ \           /  |  | ___  _|  | __ 
@@ -10,7 +18,7 @@
 
 <!-- <p align="center"><img src="https://monophy.com/media/QTfX9Ejfra3ZmNxh6B/monophy.gif" width="10%" align="center"></p> -->
                                         
-
+<!----
 <p align="center">I am <b><i>Avinash D. Avi</i></b> 👒<br>Code Blooded Anime <img src="https://thumbs.dreamstime.com/b/hacker-looking-camera-face-mask-dark-theme-wallpaper-hacker-looking-camera-face-mask-dark-theme-wallpaper-291465611.jpg" width=2% hspace="4px" /><br> There is no place like <b><i>127.0.0.1</i></b></p>
 
 <!--<img align="left" src="https://monophy.com/media/QTfX9Ejfra3ZmNxh6B/monophy.gif" width="20%" >
@@ -26,7 +34,7 @@ const me = {                                                         ________   
 ```
 --->
 <!-- <br><img src="https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg" width="100%" height="2px" align="left"/> -->
-
+<!---
 <div align="center">
 <h5>Connect / Follow Here:</h5>
   <a href="https://linkedin.com/in/im4vk" target="blank"><img src = "https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px" /></a> <a href="https://app.hackthebox.com/profile/1018174" ><img src="https://yt3.ggpht.com/ytc/AKedOLRNscQU9ZqS-WvVLX1y47YiTCzTa6WqSJRt6GDVoQ=s900-c-k-c0x00ffffff-no-rj" width="33px" hspace="13px"/></a> <a href="https://www.codechef.com/users/im4vk" ><img src="https://www.saashub.com/images/app/service_logos/175/r59iw60rtoxu/large.png" width="39px" /></a>
