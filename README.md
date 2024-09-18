@@ -2,7 +2,7 @@
 
 #### A Backend-Developer by day ☼ and a  Security Enthusiast by night ☾
 
-- 👒 [Avinash]()
+- 👒 [Avinash](https://docs.google.com/document/d/14PudfxYQ08QSjwtPyKpcbJ7pdcGGfTq9Z0lngh9yUPw/edit?usp=sharing)
 - 🌍 I'm mostly active within the **Security Community**
 
 <!--
